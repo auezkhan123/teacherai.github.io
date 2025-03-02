@@ -1,1 +1,1 @@
-# teacherai.helper
+# teacheraihelper.github.io
