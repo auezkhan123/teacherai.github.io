@@ -1,0 +1,88 @@
+body {
+    background-color:rgb(248, 239, 228);
+}
+
+a {
+    text-decoration: none;
+    color:rgb(24, 88, 103);
+    font-size: 120%;
+    
+}
+ .d-flex {
+    width: 50%;
+  
+}
+
+
+h3,h4 {
+    color:rgb(3, 1, 11) ;
+    font-style:normal;
+}
+
+.card-img-top {
+    width: 310px;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+.btn-outline-success {
+    background-color: white;
+}
+
+
+img {
+    max-width: 350px;
+    max-height: 350px;
+}
+
+.panel-info {
+    background-color: 
+    color: blueviolet;
+}
+
+.card {
+    height: 100%;
+
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body p {
+    flex-grow: 1;
+}
+
+.card-body .btn {
+    margin-top: auto;
+}
+
+
+
+
+.content {
+    margin-top: 400px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    
+    
+}
+
+footer {
+    background-color:  rgb(6, 18, 25);
+    
+}
+
+
+
+
+
+
+
